@@ -12,8 +12,8 @@ There are numerous strategies to publish and distribute your component library t
 
 ## Publishing to Node Package Manager (NPM)
 
-The first step and highly recommended step is to
-[publish the component library NPM](https://docs.npmjs.com/getting-started/publishing-npm-packages). Npm is an online software registry for sharing libraries, tools, utilities, packages, etc. Once the library is published to NPM, other projects are able to add your component library as a dependency and use the components within their own projects.
+The first, highly-recommended step is to
+[publish the component library to NPM](https://docs.npmjs.com/getting-started/publishing-npm-packages). NPM is an online software registry for sharing libraries, tools, utilities, packages, etc. Once your component library is published to NPM, others can add it as a dependency and use it within their own projects.
 
 
 ## `package.json`
